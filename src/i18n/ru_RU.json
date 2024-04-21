@@ -1,123 +1,123 @@
 {
   "title": {
-    "index": "Home",
+    "index": "Главная",
     "downloads": {
-      "index": "Downloads",
-      "all": "Build explorer",
-      "leaves": "Leaves Downloads"
+      "index": "Скачать",
+      "all": "сайте сборок",
+      "leaves": "Скачивании Leaves"
     },
-    "sponsor": "Sponsor",
-    "team": "Team",
+    "sponsor": "Спонсор",
+    "team": "Команда",
     "community": {
-      "index": "Community",
-      "guidelines": "Community Guidelines"
+      "index": "Сообщество",
+      "guidelines": "Правила сообщества"
     },
-    "contribute": "Contributing"
+    "contribute": "Внести вклад"
   },
   "index": {
     "title": {
-      "line1": "Pure software.",
-      "line2": "Born for vanilla."
+      "line1": "Чистое программное обеспечение.",
+      "line2": "Сделано для Vanilla."
     },
-    "description": "LeavesMC improves Minecraft’s ecosystem with fast, secure and stable software available, providing quick releases and helpful support as the most maverick.",
-    "downloads": "Downloads",
-    "documentation": "Documentation",
+    "description": "LeavesMC улучшает серверную систему Minecraft, предлагая быстрое, безопасное и стабильное программное обеспечение, предоставляя быстрые выпуски и полезные поддержки как самая уникальная команда.",
+    "downloads": "Скачивании",
+    "documentation": "Документация",
     "image": {
       "1": {
         "title": {
-          "powering": "Powering",
-          "players": "players"
+          "powering": "Обеспечивал сервер для",
+          "players": "игрок(и/ов)"
         },
-        "description": "LeavesMC’s software is designed with utility and performance in mind, it can handle whatever you throw at it."
+        "description": "Leaves разработано с учетом полезности и производительности, он может справиться с любыми задачами, что в него представили."
       }
     }
   },
   "downloads": {
     "index": {
-      "title": "Downloads",
-      "description": "Select the software you want to download.",
+      "title": "Скачивании",
+      "description": "Выберите программное обеспечение, которое хотите скачать.",
       "softwares": {
         "leaves": {
-          "description": "Leaves is a Minecraft game server, aimed at repairing broken vanilla properties."
+          "description": "Leaves — игровое серверное программное обеспечение Minecraft, предназначенный для исправления сломанных ванильных свойств из серверного программного обеспечения Paper."
         }
       }
     },
     "all": {
-      "description": "Legacy builds are not supported. Proceed at your own risk!"
+      "description": "Старые версии не поддерживаются. Продолжайте на свой страх и риск!"
     },
     "leaves": {
-      "description": "Download Leaves, our Minecraft server software offering unrivaled performance and stability.",
-      "experimentalWarning": "Download experimental builds of Leaves, our Minecraft server software offering unrivaled performance and stability. Proceed with caution!"
+      "description": "Скачайте Leaves, наше серверное программное обеспечение Minecraft, обеспечивающее непревзойденную производительность и стабильность.",
+      "experimentalWarning": "Скачайте экспериментальную версию Leaves, нашего серверного программного обеспечения Minecraft, обеспечивающего непревзойденную производительность и стабильность. Действовать с осторожностью!"
     }
   },
   "software": {
     "leaves": {
       "index": {
         "title": {
-          "line1": "Following vanilla properties",
-          "line2": "Minecraft server"
+          "line1": "Следует ванильным свойствам",
+          "line2": "Minecraft сервер"
         },
-        "description": "Leaves is a Minecraft game server based on Paper, aimed at repairing broken vanilla properties.",
+        "description": "Leaves — это игровой серверное программное обеспечение Minecraft основанный на Paper, предназначенный для исправления нарушенных ванильных свойств из серверного программного обеспечения Paper.",
         "why": {
-          "title": "Why Leaves?",
+          "title": "Почему выбирают Leaves?",
           "reason": {
             "1": {
-              "label": "It's stupidly fast",
-              "description": "Leaves contains numerous improvements and optimizations resulting in a significant increase in performance. This includes asynchronous chunk loading, as well as major optimizations to the light engine, hoppers, entities, and more."
+              "label": "Он удивительно быстро",
+              "description": "Leaves включает в себя ряд улучшений и оптимизаций, которые значительно повышают производительность. Сюда входит асинхронная загрузка чанки (asynchronous chunk loading), а также основные оптимизации светового движка (light engine), загрузочной воронок (hoppers), сущностей (entities) и многого другого."
             },
             "2": {
-              "label": "An active and growing community",
-              "description": "Leaves has an active and growing community of server administrators and developers. If you encounter any problems, you can come talk with us on Discord and get real time support."
+              "label": "Активное и растущее сообщество",
+              "description": "У нас активное и растущее сообщество администраторов и разработчиков. Если у вас возникнут какие-либо проблемы, вы можете поговорить с нами в Discord и получить поддержку в реальном времени."
             },
             "3": {
-              "label": "An expanded API",
-              "description": "Leaves extends and improves the Bukkit, Spigot and Paper APIs so that you and your developers have more features and functionality at your fingertips."
+              "label": "Расширенный API",
+              "description": "Leaves расширяет и улучшает Bukkit, Spigot и Paper API, предоставляя больше функций и возможностей разработчикам."
             }
           }
         },
         "image": {
           "1": {
-            "title": "Getting Started",
-            "description": "To get started with Leaves, you will need to download and install the latest version of the server software. Once you're ready, take a look at our extensive documentation."
+            "title": "Начать использовать",
+            "description": "Чтобы начать работу с Leaves, вам необходимо скачать и установить последнюю версию серверного программного обеспечения Leaves. Когда вы будете готовы, ознакомьтесь с нашей документацией."
           },
           "2": {
-            "title": "Together with a community of server owners",
-            "description": "Whether you need help with your server settings, server lag, or need a guide for formatting your chat, our knowledgeable staff and friendly community are always around to lend a hand."
+            "title": "Присоединяйтесь к сообществу владельцев серверов Leaves",
+            "description": "Если вам нужна помощь с настройкой сервера, его задержкой или рекомендации по форматированию чата, наш опытные разработчики и дружелюбное сообщество всегда готовы вам помочь."
           }
         },
         "button": {
-          "downloads": "Downloads",
-          "documentation": "Documentation",
-          "discord": "Join our Discord",
-          "qq-group": "Join our QQ group"
+          "downloads": "Скачать",
+          "documentation": "Документация",
+          "discord": "Присоединяйтесь к нам в дискорде",
+          "qq-group": "Присоединяйтесь к нам в Tencent QQ"
         }
       }
     }
   },
   "sponsor": {
-    "title": "Sponsor",
-    "description": "LeavesMC is an open community, and part of managing the community involves paying for services, servers, and infrastructure. We do what we can to keep our costs reasonable and sustainable, but still some costs are unavoidable.",
+    "title": "Спонсор",
+    "description": "LeavesMC — это открытое сообщество, и часть управления сообществом включает оплату услуг, серверов и др. Мы делаем все возможное, чтобы затраты были разумными и устойчивыми, но некоторые затраты неизбежны.",
     "why": {
-      "title": "Why You Should Donate",
+      "title": "Почему вам стоит сделать пожертвования",
       "reason": {
         "1": {
-          "label": "Sustainability",
-          "description": "Donations help keep LeavesMC sustainable and open to all. Only those who can afford to donate should do so, and no one should feel bad if they can't."
+          "label": "Устойчивое развитие",
+          "description": "Пожертвования помогают сделать LeavesMC устойчивым и открытым для всех. Делать это должны только те, кто может позволить себе сделать пожертвование, и никто не сожалеет, если он не может этого сделать."
         },
         "2": {
-          "label": "Future plans",
-          "description": "We need to upgrade our hosting to meet the growing demand for our services and APIs. This will increase costs, which we hope to offset with donations through Patreon and Afdian."
+          "label": "Планы на будущее",
+          "description": "Нам необходимо обновить наш хостинг, чтобы удовлетворить растущий спрос на наши услуги и API. Это приведет к увеличению затрат, которые мы надеемся компенсировать пожертвованиями через Patreon и Afdian."
         },
         "3": {
-          "label": "Giving back",
-          "description": "If we receive more in donations than our monthly costs, we may consider distributing funds to contributors in a fair and transparent way."
+          "label": "Вернуть",
+          "description": "Если мы получаем больше пожертвований, чем наши ежемесячные расходы, мы можем рассмотреть возможность справедливого и прозрачного распределения средств среди спонсорыми."
         }
       }
     },
-    "sponsors": "Our Sponsors"
+    "sponsors": "Наши спонсоры"
   },
   "team": {
-    "title": "Meet our team",
+    "title": "Познакомьтесь с нашей командой",
     "description": "Meet the members behind LeavesMC, a Minecraft software organization focusing on improving the game’s ecosystem with faster and more secure software.",
     "core-team": {
       "title": "Core Team",
