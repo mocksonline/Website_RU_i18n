@@ -88,7 +88,7 @@
         "button": {
           "downloads": "Скачать",
           "documentation": "Документация",
-          "discord": "Присоединяйтесь к нам в дискорде",
+          "discord": "Присоединяйтесь к нам в Discord",
           "qq-group": "Присоединяйтесь к нам в Tencent QQ"
         }
       }
@@ -118,53 +118,53 @@
   },
   "team": {
     "title": "Познакомьтесь с нашей командой",
-    "description": "Meet the members behind LeavesMC, a Minecraft software organization focusing on improving the game’s ecosystem with faster and more secure software.",
+    "description": "Познакомьтесь с разработчиками LeavesMC. LeavesMC - команда, занимающаяся разработкой программного обеспечения Minecraft, трудиется над улучшением серверной системы Minecraft, написав более быстрое и безопасное программное обеспечение (**)",
     "core-team": {
-      "title": "Core Team",
-      "description": "Core Team members are responsible for the direction of the project, and for making the big decisions. Whether they focus on the code or the community, they're essential to making everything run and have final say in just about anything."
+      "title": "Член(ы) основной команды",
+      "description": "Члены основной команды несут ответственность за направление проекта и за принятие важных решений. Независимо от того, сосредоточены ли они на коде или сообществе, они необходимы для того, чтобы все работали, и имели последнее слово практически во всем."
     },
     "leaves-developers": {
-      "title": "Leaves Developers",
-      "description": "Leaves Developers help with writing code, reviewing PRs, and keeping the project lively. By contributing new features and helping to polish off old code, they make Leaves run."
+      "title": "Разработчики Leaves",
+      "description": "Разработчики Leaves помогают с написанием кода, проверкой PR и поддержанием активности проекта. Внося новые функции и помогая доработать старый код, они заставляют Leaves нормально работать."
     },
     "web-developers": {
-      "title": "Web Developers",
-      "description": "Web Developers make LeavesMC onto the information superhighway. Through their efforts, you can touch the software of LeavesMC more conveniently."
+      "title": "Веб-разработчики",
+      "description": "Веб-разработчики вывели LeavesMC на Информационный хайвей. Благодаря их усилиям вы сможете легче получить доступ к программному обеспечению Leaves."
     },
     "button": {
-      "sponsor": "Sponsor"
+      "sponsor": "Cпонсор"
     },
     "contributors": {
       "title": "Contributors",
-      "description": "Contributors are those people who have helped the organization by making important contributions to our codebases. From adding a new redstone engine to PRing a fix for a nasty bug, our contributors have helped us to provide the best software we possibly can."
+      "description": "Участники — это те люди, которые помогли команду, внося важный вклад в нашу кодовую базу, от добавления нового движка Redstone до публикации исправления неприятной ошибки, наши участники помогли нам предоставить лучшее программное обеспечение, которое мы можем."
     },
-    "avatar": "'s avatar"
+    "avatar": "аватар"
   },
   "community": {
     "index": {
-      "title": "Join Our Community",
-      "description": "We're happy to have you as a part of the LeavesMC community! Please read our community guidelines before participating.",
+      "title": "Присоединяйтесь к нашему сообществу",
+      "description": "Мы рады, если вы стали частью сообщества LeavesMC! Прежде чем принять участие, прочтите правила нашего сообщества!",
       "discord": {
-        "description": "Discord is a popular option for many gamers to communicate with each other. We have a Discord community server that anyone can join."
+        "description": "Discord — популярный вариант общения друг с другом среди многих геймеров. У нас есть сервер сообщества Discord, к которому может присоединиться каждый."
       },
       "qq-group": {
-        "title": "QQ Group",
-        "description": "You can join the QQ group and chat with other administrators, developers, project staff, and more. However, this group is maintained by the community and all of its content is unrelated to LeavesMC."
+        "title": "Группа Tencent QQ",
+        "description": "Вы можете присоединиться к группе Tencent QQ и общаться с другими администраторами, разработчиками, сотрудниками проекта и другими людьми. Однако эта группа поддерживается сообществом, и весь ее контент не связан с LeavesMC."
       },
       "giscus": {
-        "description": "You can use GitHub to leave a comment or share some tips here.",
+        "description": "Вы можете использовать GitHub, чтобы оставить комментарий или поделиться здесь советами.",
         "lang": "en"
       },
       "button": {
-        "guidelines": "Community Guidelines",
-        "discord": "Join our Discord",
-        "qq-group": "Join our QQ group"
+        "guidelines": "Правила сообщества",
+        "discord": "Присоединяйтесь к нам в Discord",
+        "qq-group": "Присоединяйтесь к нам в Tencent QQ"
       }
     },
     "guidelines": {
-      "title": "LeavesMC Community Guidelines",
-      "last-updated": "Last Updated",
-      "license": "This document is licensed under {{license}}{{icons}}"
+      "title": "Правила сообщества LeavesMC",
+      "last-updated": "Последнее обновление",
+      "license": "Этот документ имеет лицензию {{license}}{{icons}}"
     }
   },
   "contribute": {
